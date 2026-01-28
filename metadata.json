@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PoliVoice Bangla",
+  "description": "A specialized Bangla AI Voice Assistant for Political Science students and faculty, providing academic support, viva prep, and exam materials.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
